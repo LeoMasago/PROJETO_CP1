@@ -1,0 +1,83 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-shadow: 5px;
+    
+
+}
+
+header{
+    background-color:black;
+    text-align: center;
+    box-shadow: 5px 5px 5px 10px black;
+    
+}
+
+body {
+    margin: 0%;
+    background-image: url(img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bloco_fundo {
+    background-color: black;
+    
+    
+}
+
+.Contexto {
+    display: flex;
+    background-color: black;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 10px black;
+}
+
+img{
+    border-radius: 50%;
+}
+
+p {
+    margin: 10px;
+    padding-top: 10px;
+    color:aliceblue;
+
+}
+
+.entrevista {
+    width: 40%;
+    height: 550px;
+    background-color: black;
+    margin: 10px;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    
+}
+
+.t1 {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+
+}
+
+
+.conteiner1 {
+    display: flex;
+}
+
+.episodeos {
+    width: 40%;
+    height: 550px;
+    background-color: black;
+    border-radius: 5px;
+    margin: 10px;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    margin-left: 5%;
+}
