@@ -81,3 +81,18 @@ p {
     box-shadow: 5px 5px 5px 5px black;
     margin-left: 5%;
 }
+.navbar {
+display: flex;
+width: 100%;
+padding: 20px;
+align-items: center;
+justify-content: left;
+position: fixed;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+z-index: 999;
+color: aqua;
+
+}
+.navbar :link{
+    text-decoration: none;
+}
