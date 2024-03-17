@@ -42,12 +42,12 @@ p {
     margin: 10px;
     padding-top: 10px;
     color:aliceblue;
-
+    font-size: 20px;
 }
 
 .entrevista {
     width: 40%;
-    height: 550px;
+    height: 750px;
     background-color: black;
     margin: 10px;
     border-radius: 5px;
@@ -72,7 +72,7 @@ p {
 
 .episodeos {
     width: 40%;
-    height: 550px;
+    height: 750px;
     background-color: black;
     border-radius: 5px;
     margin: 10px;
